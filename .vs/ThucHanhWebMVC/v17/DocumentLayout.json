@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huu Tam\\source\\repos\\ThucHanhWebMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EDC6A1-51F9-4B1A-91D8-222206AD54F6}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|c:\\users\\huu tam\\source\\repos\\thuchanhwebmvc\\thuchanhwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EDC6A1-51F9-4B1A-91D8-222206AD54F6}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EDC6A1-51F9-4B1A-91D8-222206AD54F6}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|c:\\users\\huu tam\\source\\repos\\thuchanhwebmvc\\thuchanhwebmvc\\migrations\\20240716075436_addsessiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EDC6A1-51F9-4B1A-91D8-222206AD54F6}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\migrations\\20240716075436_addsessiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huu Tam\\source\\repos\\ThucHanhWebMVC\\ThucHanhWebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ThucHanhWebMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Huu Tam\\source\\repos\\ThucHanhWebMVC\\ThucHanhWebMVC\\Program.cs",
+              "RelativeToolTip": "ThucHanhWebMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:54:59.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240716075436_AddSessionTable.cs",
+              "DocumentMoniker": "C:\\Users\\Huu Tam\\source\\repos\\ThucHanhWebMVC\\ThucHanhWebMVC\\Migrations\\20240716075436_AddSessionTable.cs",
+              "RelativeDocumentMoniker": "ThucHanhWebMVC\\Migrations\\20240716075436_AddSessionTable.cs",
+              "ToolTip": "C:\\Users\\Huu Tam\\source\\repos\\ThucHanhWebMVC\\ThucHanhWebMVC\\Migrations\\20240716075436_AddSessionTable.cs",
+              "RelativeToolTip": "ThucHanhWebMVC\\Migrations\\20240716075436_AddSessionTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:54:37.141Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
